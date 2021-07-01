@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XPukar
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning javascript & python
-- 💞️ I’m looking to collaborate on developing webpages
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently learning about pentesting and packet sniffing
+- 💞️ I’m looking to get more experience in Cyber Security
 - 📫 How to reach me @ xresthapukar@gmail.com
 
 <!---
